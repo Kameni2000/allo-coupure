@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638684641371",
+    "project_id": "allocoupure-v2",
+    "storage_bucket": "allocoupure-v2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638684641371:android:40b71de8270c2d6306a77e",
+        "android_client_info": {
+          "package_name": "com.example.allo_coupure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "YOUR_FIREBASE_API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
